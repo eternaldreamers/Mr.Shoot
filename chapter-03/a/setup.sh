@@ -1,0 +1,1 @@
+clang++ -o program main.cpp -lgvc -lcgraph && ./program
